@@ -63,11 +63,9 @@ The dashboard includes:
 
 ## ✦ Interactive Dashboard
 
+Access the interactive dashboard developed in Looker Studio:
+
 https://datastudio.google.com/reporting/bcb9ebc0-981f-4a95-98c3-dca82fab55a5
-
----
-
-## ✦ Academic Context
 
 This project was developed individually based on the specifications provided during the course at **Faculdade Infnet**.
 
